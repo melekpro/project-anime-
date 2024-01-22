@@ -2,12 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif; 
 }
-body{
+
+body {
   height: 100vh;
   background-color: #000;
   background-image: url(https://c4.wallpaperflare.com/wallpaper/223/57/273/one-piece-wallpaper-preview.jpg);
-  
-  
+  background-size: cover; 
+  background-position: center; 
 }

@@ -11,4 +11,5 @@ body {
   background-image: url(https://c4.wallpaperflare.com/wallpaper/223/57/273/one-piece-wallpaper-preview.jpg);
   background-size: cover; 
   background-position: center; 
+  image-rendering: pixelated; 
 }
